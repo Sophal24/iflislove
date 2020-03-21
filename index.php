@@ -30,37 +30,10 @@
 
             <ul class="list-unstyled components">
                 <p>IFL is LOVE, IFL is LIFE.</p>
-                <!-- <li class="active">
-                    <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Home</a>
-                    <ul class="collapse list-unstyled" id="homeSubmenu">
-                        <li>
-                            <a href="#">Study Tips</a>
-                        </li>
-                        <li>
-                            <a href="#">Love Experience</a>
-                        </li>
-                        <li>
-                            <a href="#">Funny Experience</a>
-                        </li>
-                    </ul>
-                </li> -->
                 <li>
                     <a href="#"><i class="fas fa-home"></i> Home</a>
                 </li>
-                <!-- <li>
-                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Pages</a>
-                    <ul class="collapse list-unstyled" id="pageSubmenu">
-                        <li>
-                            <a href="#">Page 1</a>
-                        </li>
-                        <li>
-                            <a href="#">Page 2</a>
-                        </li>
-                        <li>
-                            <a href="#">Page 3</a>
-                        </li>
-                    </ul>
-                </li> -->
+
                 <li>
                     <a href="#"><i class="fas fa-user-graduate"></i> Study Tips</a>
                 </li>
@@ -101,23 +74,6 @@
                     <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <i class="fas fa-align-justify"></i>
                     </button>
-
-                    <!-- <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="nav navbar-nav ml-auto">
-                            <li class="nav-item active">
-                                <a class="nav-link" href="#">IFL</a>
-                            </li>
-                            <li class="nav-item active">
-                                <a class="nav-link" href="#">NIPTICT</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
-                            </li>
-                        </ul>
-                    </div> -->
                 </div>
             </nav>
 
