@@ -50,15 +50,6 @@
                     <a href="#"><i class="fas fa-address-card"></i> About Us</a>
                 </li>
             </ul>
-
-            <ul class="list-unstyled CTAs">
-                <li>
-                    <a href="#" class="download">Download source</a>
-                </li>
-                <li>
-                    <a href="#" class="article">Back to article</a>
-                </li>
-            </ul>
         </nav>
 
         <!-- Page Content  -->
